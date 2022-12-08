@@ -1,9 +1,9 @@
 .\" Manpage for _printf
-.TH man 8 "26 July 2021" "1.0" "_printf man page"
+.TH man 8 "26 July 2022" "1.0" "_printf man page"
 .SH NAME
 _printf - format and write a string, character or integer to stdout
 .SH SYNOPSIS
-#include "holberton.h"
+#include "main.h"
 .br
 #include <stdarg.h>
 .br
@@ -33,4 +33,4 @@ No known bugs
 This page was created in collaboration with ALX-Holberton.
 
 .SH AUTHORS
-.Ayesiga Nobert and F Njakai
+.Adrian A Kiplimo
