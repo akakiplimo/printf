@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
  * buf_init - Function that create a buffer at a default size of 1024
